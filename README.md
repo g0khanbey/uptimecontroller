@@ -5,6 +5,7 @@ Script; **Node.js, Uptime Kuma, systemd servisi ve NGINX reverse-proxy** yapıla
 
 
 ---
+![Uptime Kuma](https://raw.githubusercontent.com/g0khanbey/uptimecontroller/main/uptimekoma.PNG)
 
 ## ✨ Özellikler
 
