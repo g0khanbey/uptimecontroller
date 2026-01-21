@@ -3,7 +3,6 @@
 **Uptime Controller**, Ubuntu sunucularda **Docker kullanmadan** Uptime Kuma kurmak için hazırlanmış otomatik bir kurulum scriptidir.  
 Script; **Node.js, Uptime Kuma, systemd servisi ve NGINX reverse-proxy** yapılandırmasını tek seferde kurar.
 
-> Amaç: VDS / bare-metal sunucularda **daha stabil**, **daha az CPU scheduler problemi (RCU / BESZEL)** ile çalışan bir izleme altyapısı.
 
 ---
 
